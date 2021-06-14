@@ -1,0 +1,2 @@
+# windowsManagemantScripts
+windows下一些常用脚本集合
